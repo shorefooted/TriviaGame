@@ -1,2 +1,3 @@
 # TriviaGame
 HW_5
+I am working with Mike on my deadline flexiblity as I am still slowed down very much by my right eye and the Central serous retinopathy (CSR) that suddenly took hold a couple weeks ago.  I am getting another doctor note for this to see if he and the director will approve another 2 week time frame for flexibility on deadlines.  I had a treatment last Tuesday that seemed to immediately bring down the swelling behind the retina but it is still clearing up and I can only sit for short periods of time in front of the screen and get headaches and  tire quickly.  I only sketched out this assignment and got the timer and the game dynamics working and didn't dresss it up with CSS yet but I will update and maybe you'll catch it.
